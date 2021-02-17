@@ -1,2 +1,2 @@
-notepade projeto alura
+notepad projeto alura
 
